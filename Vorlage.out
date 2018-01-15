@@ -1,0 +1,16 @@
+\BOOKMARK [0][-]{chapter.1}{Aufgabenstellung}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Hardware}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Ultraschallsensor}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Display}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{FPGA-Board}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Protokolle}{}% 6
+\BOOKMARK [1][-]{section.3.1}{I\262C}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.2}{SPI}{chapter.3}% 8
+\BOOKMARK [0][-]{chapter.4}{Vorgehen}{}% 9
+\BOOKMARK [0][-]{chapter.5}{Implementierung}{}% 10
+\BOOKMARK [1][-]{section.5.1}{Ultraschallsensor / I\262C}{chapter.5}% 11
+\BOOKMARK [1][-]{section.5.2}{OLED-Display / SPI}{chapter.5}% 12
+\BOOKMARK [1][-]{section.5.3}{Software-Design}{chapter.5}% 13
+\BOOKMARK [1][-]{section.5.4}{Ringbuffer}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.5}{Messwertfilter}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.6}{Ausgabe}{chapter.5}% 16
